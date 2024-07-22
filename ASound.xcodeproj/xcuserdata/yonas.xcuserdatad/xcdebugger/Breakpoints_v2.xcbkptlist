@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "223A8B0A-FEA1-49E0-9591-7B35AF862F92"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASound/Pages/NumberPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "NumberPage"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - eaca474f476a55c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ASound.NumberPage.size : Swift.Int"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - d2a646d84c274915"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASound.NumberPage.size.getter : Swift.Int"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - ade77615142e3509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASound.NumberPage.size.setter : Swift.Int"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - 78871fbf69ea261a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASound.NumberPage.size.modify : Swift.Int"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - 869989fdf3fb1409"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASound.NumberPage.size.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - 997e830016045251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASound.NumberPage.$size.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "202">
+               </Location>
+               <Location
+                  uuid = "435604DE-E738-4B7A-8396-C1DC7A3B8034 - cfccfc5def2f31db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASound.NumberPage.init() -&gt; ASound.NumberPage"
+                  moduleName = "ASound"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yonas/Desktop/Demo/Projects/ASound/ASound/Pages/NumberPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "575">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
